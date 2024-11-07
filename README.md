@@ -11,13 +11,13 @@ The main objectives of this project are:</br>
 4. Provide actionable insights to inform business strategies, such as customer retention, product development, and targeted marketing.</br>
 
 ## Tools Used
-Tableau: For data visualization, creating interactive dashboards, and performing advanced data analysis.
-Excel/CSV: Data pre-processing and cleaning before importing into Tableau.
+* Tableau: For data visualization, creating interactive dashboards, and performing advanced data analysis.</br>
+* Excel/CSV: Data pre-processing and cleaning before importing into Tableau.</br>
 
 ## Dataset Description
 The dataset includes the following fields:
-Client_Num: Unique identifier for each client
-Card_Category: Type of card (e.g., Platinum, Gold)
+* Client_Num: Unique identifier for each client</br>
+* Card_Category: Type of card (e.g., Platinum, Gold)</br>
 Annual_Fees: Annual fees associated with each card
 Activation_30_Days: Activation status within the first 30 days
 Customer_Acq_Cost: Cost to acquire each customer
