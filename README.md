@@ -39,6 +39,10 @@ The Tableau dashboard includes:</br>
 * Trend Analysis: Weekly Transaction Trends, Annual Fee Distribution, and Credit Limit vs. Total Transaction Amount.</br>
 * These insights help to pinpoint revenue opportunities, identify customer usage patterns, and optimize credit card portfolio performance.</br>
 
+## Dashboard
+![Credit Card Transaction Report Dashboard Screenshot](https://github.com/SunilKulali/Credit-Card-Transaction-Report/blob/main/Images/Screenshot%20(210).png)
+
+
 ## How to Use
 1. Clone this repository: Download or clone the repository to access the dataset and Tableau workbook.</br>
 2. Data Preparation: Ensure data is clean and formatted correctly before importing into Tableau. If needed, use the provided CSV or Excel files for reference.</br>
