@@ -4,11 +4,11 @@
 This project presents an in-depth analysis of credit card transaction data to explore customer spending behavior, transaction patterns, and financial performance indicators. By visualizing the data in Tableau, users gain insights into key metrics, customer segments, and trends, supporting data-driven decision-making for optimizing credit card portfolios.
 
 ## Project Objective
-The main objectives of this project are:
-Analyze customer behavior across different card categories and spending levels.
-Identify key revenue and performance metrics, such as transaction volume, interest earned, and customer acquisition costs.
-Detect trends over time, including weekly, quarterly, and yearly patterns.
-Provide actionable insights to inform business strategies, such as customer retention, product development, and targeted marketing.
+The main objectives of this project are:</br>
+1. Analyze customer behavior across different card categories and spending levels.</br>
+2. Identify key revenue and performance metrics, such as transaction volume, interest earned, and customer acquisition costs.</br>
+3. Detect trends over time, including weekly, quarterly, and yearly patterns.</br>
+4. Provide actionable insights to inform business strategies, such as customer retention, product development, and targeted marketing.</br>
 
 ## Tools Used
 Tableau: For data visualization, creating interactive dashboards, and performing advanced data analysis.
